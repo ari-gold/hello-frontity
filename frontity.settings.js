@@ -18,7 +18,7 @@ const settings = {
               "/"
             ],
             [
-              "Menu item ",
+              "Menu item  1",
               "/category/nature/"
             ],
             [
